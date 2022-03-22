@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oscar!
+- 👀 I’m a Product Manager by trade, 
+- 🌱 I’m currently learning python and how to become a founder
+- 💞️ I’m looking to collaborate on app ideation 
+- 📫 How to reach me by visiting www.oscargarcia.io 
