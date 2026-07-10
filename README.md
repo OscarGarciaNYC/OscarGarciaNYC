@@ -4,6 +4,12 @@
 
 ---
 
+### 🚀 Built by me
+
+**[Lean Agentic Delivery Kit](https://github.com/OscarGarciaNYC/lean-agentic-delivery-kit)** — my actual system for shipping production software with AI agents: a governance spine, an **Architect · Builder · Reviewer** trio, and the one idea that makes it stick — *state travels with the work*. The setup behind [TreeTales](https://oscargarcianyc.github.io).
+
+---
+
 ### 🔧 Tools I'm reaching for right now
 
 | Tool | Why it earns its spot |
